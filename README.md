@@ -27,10 +27,13 @@
 [![玩家連招](https://img.youtube.com/vi/VXSJQYUGFWU/hqdefault.jpg)](https://www.youtube.com/watch?v=VXSJQYUGFWU)
 ### 敵人展示
 - 史萊姆:平常會巡邏，玩家靠近會變成攻擊模式，玩家跑遠會回到原點
+
 ![slime](./attachments/slime.png)
 - 敵人2號:玩家靠近才會產生，採用遠程攻擊，時間因素沒有材質
+  
 ![敵人2號](./attachments/second%20boss.png)
 - boss:有特殊登場動畫，時間因素沒有材質，擊敗有獎勵
+  
 ![boss](./attachments/boss.png)
 ### Boss 登場影片
 [![Boss 登場](https://img.youtube.com/vi/pPhPzbmtl24/hqdefault.jpg)](https://www.youtube.com/watch?v=pPhPzbmtl24)
