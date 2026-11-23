@@ -41,6 +41,7 @@
 ![獎勵](./attachments/reward.png)
 ### 快速通關影片
 - 為了快速通關我調高玩家傷害
+  
 [![快速通關](https://img.youtube.com/vi/LI0oP_ypOG0/hqdefault.jpg)](https://www.youtube.com/watch?v=LI0oP_ypOG0)
 
 
