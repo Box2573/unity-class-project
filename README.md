@@ -1,7 +1,8 @@
 # Poor Adventure
 
-使用 Unity 與 C# 開發的 3D 遊戲專案。
-**由於未包含完整 Unity 專案及部分第三方資源，因此無法直接透過 Unity 開啟並執行完整遊戲。**
+- 使用 Unity 與 C# 開發的 3D 遊戲專案
+- **由於未包含完整 Unity 專案及部分第三方資源，因此無法直接透過 Unity 開啟並執行完整遊戲**
+>本 Repository 保存的是開發期間的 Unity 專案版本，並非最終發布版本。由於最終版本的完整原始專案因換電腦遺失且未能尋回，因此以實際遊戲畫面及影片展示最終成果
 
 ## 專案介紹
 主角睡覺夢到一個npc跟他說獲得賺錢的機會，打完boos獲得獎勵
@@ -16,15 +17,28 @@
 - 遊戲包含兩種一般敵人
 - 設計專屬 Boss 登場演出，增加遊戲過程中的情境感與戰鬥氣氛
 - 擊敗 Boss 後可以獲得獎勵
-### 遊玩畫面
-- 遊戲場景
-- 可撿拾的石頭
-- 玩家戰鬥與連招
-- 敵人展示
-- Boss 登場
-- 通關獎勵
-
-
+## 遊玩畫面
+### 遊戲場景
+![整體地圖設計](./attachments/image-1.png)
+### 可撿拾的石頭
+![可以撿拾石頭](./attachments/stone_pick.jpg)
+- 會在右下角顯示目前擁有的石頭數量
+### 玩家戰鬥與連招影片
+[![玩家連招](https://img.youtube.com/vi/VXSJQYUGFWU/hqdefault.jpg)](https://www.youtube.com/watch?v=VXSJQYUGFWU)
+### 敵人展示
+- 史萊姆:平常會巡邏，玩家靠近會變成攻擊模式，玩家跑遠會回到原點
+![slime](./attachments/slime.png)
+- 敵人2號:玩家靠近才會產生，採用遠程攻擊，時間因素沒有材質
+![敵人2號](./attachments/second%20boss.png)
+- boss:有特殊登場動畫，時間因素沒有材質，擊敗有獎勵
+![boss](./attachments/boss.png)
+### Boss 登場影片
+[![Boss 登場](https://img.youtube.com/vi/pPhPzbmtl24/hqdefault.jpg)](https://www.youtube.com/watch?v=pPhPzbmtl24)
+### 通關獎勵
+![獎勵](./attachments/reward.png)
+### 快速通關影片
+- 為了快速通關我調高玩家傷害
+[![快速通關](https://img.youtube.com/vi/LI0oP_ypOG0/hqdefault.jpg)](https://www.youtube.com/watch?v=LI0oP_ypOG0)
 
 
 ## 個人負責項目
